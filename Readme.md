@@ -9,7 +9,7 @@ The model was developed to integrate motor control and pneumatic joint movement 
 Tiller 1 : 
 Contributed to the first prototype of an autonomous agricultural rover developed for agricultural automation applications. The design was used for preliminary estimation and integration of wheelbase, engine positioning, and electric motor systems. The rover employed a series hybrid architecture where the internal combustion engine functioned as a generator to provide electrical power to the drivetrain motor, supporting efficient energy management and modular power delivery.
 
-![Tiller #1](Tiller#1.png)
+![Tiller #1](Tiller1.png)
 
 Tiller 2: 
 Second prototype design developed to improve ground clearance and enhance structural rigidity of the agricultural rover, enabling better terrain adaptability and stronger chassis support for field applications.
