@@ -4,4 +4,4 @@ Coupler :
 Designed a 3D-modeled mechanical linkage system to connect a DC motor with a pneumatic actuator for a robotic arm prototype intended for amputee support applications. 
 The model was developed to integrate motor control and pneumatic joint movement using Arduino-based control systems.
 
-![Coupler Design](Screenshot%202026-05-23%20161852.png)
+![Coupler Design](coupler.png)
