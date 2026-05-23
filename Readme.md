@@ -14,7 +14,7 @@ Contributed to the first prototype of an autonomous agricultural rover developed
 Tiller 2: 
 Second prototype design developed to improve ground clearance and enhance structural rigidity of the agricultural rover, enabling better terrain adaptability and stronger chassis support for field applications.
 
-![Tiller #2](Tiller#2.png)
+![Tiller #2](Tiller2.png)
 
 Tracheotomy_Aid_Prot :
 Prototype assistive alert device developed for tracheotomy patients with limited mobility and communication ability. The system was designed to help semi-sedated patients call for assistance using a button-triggered buzzer mechanism integrated into a compact 3D-printed, battery-powered prototype to evaluate feasibility and practical usability.
